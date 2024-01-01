@@ -1,6 +1,6 @@
 # Flipkart Desktop Website Clone
 
-![Flipkart Clone]((https://github.com/SahilSingh3410/flipkart-clone/blob/main/website-img.jpeg))
+![[Flipkart-Clone](https://github.com/SahilSingh3410/flipkart-clone/blob/main/website-img.jpeg)]
 
 ## Overview
 
@@ -15,7 +15,7 @@ This project is a clone of the Flipkart desktop website's frontend, built using 
 
 ## Demo
 
-[[Link - ](https://sahilsingh3410.github.io/flipkart-clone/)]
+[[Link to the live demo ](https://sahilsingh3410.github.io/flipkart-clone/)]
 
 ## Features
 
