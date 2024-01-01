@@ -1,6 +1,6 @@
 # Flipkart Desktop Website Clone
 
-![[Flipkart-Clone](https://github.com/SahilSingh3410/flipkart-clone/blob/main/website-img.jpeg)]
+[[Flipkart-Clone](https://github.com/SahilSingh3410/flipkart-clone/blob/main/website-img.jpeg)]
 
 ## Overview
 
